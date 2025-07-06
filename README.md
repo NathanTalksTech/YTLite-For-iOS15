@@ -1,7 +1,7 @@
 # YouTube Plus (ex. YTLite)
 A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
 
-**As of release 20.22.1, YouTube now requires iOS 16 or higher. A pre-bundled release is available here for users who are unable to update past iOS 15. Tested on an iPod Touch 7th Generation.**
+**As of release 20.22.1, YouTube now requires iOS 16 or higher.**
 
 ## Screenshots
 <table>
